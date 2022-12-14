@@ -9,7 +9,7 @@ levels:
     - name: "Code Red Partners"
       href: "https://coderedpartners.com/search-jobs/"
       icon: "/images/sponsors_2023/CodeRedPartners.png"
-    - name: "Could Be You!"
+    - name: "SOLD"
       href: ""
       icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
     - break: true
@@ -33,7 +33,7 @@ levels:
       href: "https://snyk.io/careers/"
       icon: "/images/sponsors_2023/Snyk.png"
     - break: true
-    - name: "Could Be You!"
+    - name: "SOLD!"
       href: ""
       icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
     - name: "Could Be You!"
@@ -62,7 +62,7 @@ levels:
     - name: "Uptycs"
       href: "https://www.uptycs.com/careers"
       icon: "/images/sponsors_2023/Uptycs.png"
-    - name: "Could Be You!"
+    - name: "SOLD!"
       href: ""
       icon: "/images/sponsors_2023/BSidesSF_2023_SponsorshipCouldBeYou.png"
 
